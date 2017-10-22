@@ -3,6 +3,7 @@ A scraped list of resources/inspiration for learning programming lang implementa
 
 ### Why?
 
+I've become fascinated with programming language implementation and design and I think it would be amazing to make a contribution to an open source language one day 😅. Just a list of random resources and inspiration for me as I begin this exploration. Most references are related to Swift, as it's the language I'm most comfortable with. 
 
 
 ### Repositories
