@@ -1,5 +1,10 @@
 # swift-compiler-stuff
 A scraped list of resources/inspiration for learning programming lang implementation in Swift
+
+### Why?
+
+
+
 ### Repositories
 
 https://github.com/marciok/Mu - It's a Swift playground explaining how to create a tiny programming language named Mu
@@ -74,5 +79,60 @@ https://github.com/marciok/Mu - It's a Swift playground explaining how to create
 
   https://github.com/olenhad/sisp - A Simple Lisp LLVM Compiler. Implemented in Swift
 
-  https://github.com/S2dentik/Cobain - Simple language built on top of LLVM  https://github.com/jtrivedi/Teddy-Compiler - A simple, educational compiler implemented in Swift.  https://github.com/mkchoi212/LBAC-Swift - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds  https://github.com/apbendi/bitsy-swift - A small compiler, written in Swift, compiling the Bitsy language  https://github.com/evanjhopkins/Compiler - A compiler written in Swift to compile Alan++ into machine code  https://github.com/rsrbk/Compiler - Simple compiler written on swift  https://github.com/apbendi/bitsyspec - Bitsy: The best language to implement when writing your first compiler or interpreter  https://github.com/livioso/cpib - 🦄 A tiny compiler written in Swift.  https://github.com/yanagiba/swift-transform - A source-to-source compiler that transforms Swift code and produces the equivalent source code in other programming languages. http://yanagiba.org/swift-transform  https://github.com/HaniKazmi/swift-compiler - A compiler for a small turing complete language, written in Swift.  https://github.com/JadenGeller/CS-81-Project - Compiler Project  https://github.com/andrewcb/swiftemplate - A compile-time HTML templating system for Swift, consisting of a compiler that produces Swift code  https://github.com/gwk/ploy - Ploy language compiler (ongoing experiment, in Swift).  https://github.com/vinivendra/Tiger - Repository for storing the Tiger exercises (modern compiler implementation in ML) in Swift/C  https://github.com/Krillere/Expressions - Compiler for the Expression language in Swift. Expression is a simple functional programming language, explained in the readme  https://github.com/BenchR267/SwiftTranspiler - Example implementation for a Swift -> Javascript transpiler with ParserCombinator.  https://github.com/BenchR267/Get-Schwifty - Get Schwifty is a self-hosted Swift transpiler and was originally build for my WWDC scholarship application.  https://github.com/jweinst1/Noodle - A small, interpreted programmling language written in Swift  https://github.com/moshbit/Kotlift - Kotlift is the first source-to-source language transpiler from Kotlin to Swift 
-https://github.com/jweinst1/Peryton - A Python to Swift Transpiler  https://github.com/shift-js/shift-js - Swift to JavaScript transpiler  https://github.com/ankurp/swift-js - Swift to JS Transpiler  ### Resources  https://tomassetti.me/resources-create-programming-languages/ - 68 Resources To Help You To Create Programming Languages   https://github.com/aalhour/awesome-compilers - 😎 Curated list of awesome resources on Compilers, Interpreters and Runtimes.   https://www.skilled.io/u/playgroundscon/building-a-compiler - How to Clang Your Dragon 🐉 Building a Compiler with LLVM - by Harlan Haskins  http://craftinginterpreters.com/contents.html - A handbook for making programming languages  https://beautifulracket.com - beau­ti­ful racket, how to make your own pro­gram­ming lan­guages with racket   https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/ - Implementing functional languages: a tutorialdddd
+  https://github.com/S2dentik/Cobain - Simple language built on top of LLVM
+
+  https://github.com/jtrivedi/Teddy-Compiler - A simple, educational compiler implemented in Swift.
+
+  https://github.com/mkchoi212/LBAC-Swift - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds
+
+  https://github.com/apbendi/bitsy-swift - A small compiler, written in Swift, compiling the Bitsy language
+
+  https://github.com/evanjhopkins/Compiler - A compiler written in Swift to compile Alan++ into machine code
+
+  https://github.com/rsrbk/Compiler - Simple compiler written on swift
+
+  https://github.com/apbendi/bitsyspec - Bitsy: The best language to implement when writing your first compiler or interpreter
+
+  https://github.com/livioso/cpib - 🦄 A tiny compiler written in Swift.
+
+  https://github.com/yanagiba/swift-transform - A source-to-source compiler that transforms Swift code and produces the equivalent source code in other programming languages. http://yanagiba.org/swift-transform
+
+  https://github.com/HaniKazmi/swift-compiler - A compiler for a small turing complete language, written in Swift.
+
+  https://github.com/JadenGeller/CS-81-Project - Compiler Project
+
+  https://github.com/andrewcb/swiftemplate - A compile-time HTML templating system for Swift, consisting of a compiler that produces Swift code
+
+  https://github.com/gwk/ploy - Ploy language compiler (ongoing experiment, in Swift).
+
+  https://github.com/vinivendra/Tiger - Repository for storing the Tiger exercises (modern compiler implementation in ML) in Swift/C
+
+  https://github.com/Krillere/Expressions - Compiler for the Expression language in Swift. Expression is a simple functional programming language, explained in the readme
+
+  https://github.com/BenchR267/SwiftTranspiler - Example implementation for a Swift -> Javascript transpiler with ParserCombinator.
+
+  https://github.com/BenchR267/Get-Schwifty - Get Schwifty is a self-hosted Swift transpiler and was originally build for my WWDC scholarship application.
+
+  https://github.com/jweinst1/Noodle - A small, interpreted programmling language written in Swift
+
+  https://github.com/moshbit/Kotlift - Kotlift is the first source-to-source language transpiler from Kotlin to Swift
+
+ https://github.com/jweinst1/Peryton - A Python to Swift Transpiler
+
+  https://github.com/shift-js/shift-js - Swift to JavaScript transpiler
+
+  https://github.com/ankurp/swift-js - Swift to JS Transpiler
+
+### Resources
+
+  https://tomassetti.me/resources-create-programming-languages/ - 68 Resources To Help You To Create Programming Languages 
+
+  https://github.com/aalhour/awesome-compilers - 😎 Curated list of awesome resources on Compilers, Interpreters and Runtimes. 
+
+  https://www.skilled.io/u/playgroundscon/building-a-compiler - How to Clang Your Dragon 🐉 Building a Compiler with LLVM - by Harlan Haskins
+
+  http://craftinginterpreters.com/contents.html - A handbook for making programming languages
+
+  https://beautifulracket.com - beautiful racket, how to make your own programming languages with racket 
+
+  https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/ - Implementing functional languages: a tutorial
