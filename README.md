@@ -10,7 +10,9 @@ I've become fascinated with programming language implementation and design and I
 
 https://github.com/marciok/Mu - It's a Swift playground explaining how to create a tiny programming language named Mu
 
-  https://github.com/louisdh/lioness - The Lioness Programming Language  https://github.com/silt-lang/silt - An ML-like programming language.
+  https://github.com/louisdh/lioness - The Lioness Programming Language
+
+  https://github.com/silt-lang/silt - An ML-like programming language.
 
   https://github.com/trill-lang - A type safe, compiled language inspired by (and written in) Swift
 
