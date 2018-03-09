@@ -18,8 +18,6 @@ I've become fascinated with programming language implementation and design and I
 
   https://github.com/trill-lang - A type safe, compiled language inspired by (and written in) Swift
 
-  https://github.com/trill-lang/LLVMSwift - A Swift wrapper for the LLVM C API (version 5.0)
-
   https://github.com/trill-lang/Kaleidoscope - Kaleidoscope is an LLVM language for writing tutorials.
 
   https://github.com/harlanhaskins/Kaleidoscope-Swift - A compiler for the Kaleidoscope sample project, written in Swift
@@ -70,7 +68,9 @@ I've become fascinated with programming language implementation and design and I
 
   https://github.com/jweinst1/CornFlake - A small programming language interpreted in Swift
 
-  https://github.com/ZidPlan/zid-swift - ZID implementation in Swift programming language  https://github.com/luosheng/HQ9Plus - HQ9+ is a joke programming language.
+  https://github.com/ZidPlan/zid-swift - ZID implementation in Swift programming language
+
+  https://github.com/luosheng/HQ9Plus - HQ9+ is a joke programming language.
 
   https://github.com/emlai/gaia - A statically duck-typed functional programming language. Pre-alpha. https://emlai.github.io/gaia/
 
@@ -126,13 +126,13 @@ I've become fascinated with programming language implementation and design and I
 
   https://github.com/Krillere/Expressions - Compiler for the Expression language in Swift. Expression is a simple functional programming language, explained in the readme
 
-  https://github.com/BenchR267/SwiftTranspiler - Example implementation for a Swift -> Javascript transpiler with ParserCombinator.
-
-  https://github.com/BenchR267/Get-Schwifty - Get Schwifty is a self-hosted Swift transpiler and was originally build for my WWDC scholarship application.
-
   https://github.com/jweinst1/Noodle - A small, interpreted programmling language written in Swift
 
-  https://github.com/moshbit/Kotlift - Kotlift is the first source-to-source language transpiler from Kotlin to Swift
+### LLVM
+
+  https://github.com/llvm-swift/LLVMSwift- A Swift wrapper for the LLVM C API (version 5.0)
+
+### Transpiler
 
  https://github.com/jweinst1/Peryton - A Python to Swift Transpiler
 
@@ -140,7 +140,11 @@ I've become fascinated with programming language implementation and design and I
 
   https://github.com/ankurp/swift-js - Swift to JS Transpiler
 
-  https://github.com/llvm-swift/LLVMSwift- A Swift wrapper for the LLVM C API (version 5.0)
+  https://github.com/moshbit/Kotlift - Kotlift is the first source-to-source language transpiler from Kotlin to Swift
+
+  https://github.com/BenchR267/Get-Schwifty - Get Schwifty is a self-hosted Swift transpiler and was originally build for my WWDC scholarship application.
+
+  https://github.com/BenchR267/SwiftTranspiler - Example implementation for a Swift -> Javascript transpiler with ParserCombinator.
 
 ### Resources
 
