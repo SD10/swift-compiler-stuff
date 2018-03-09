@@ -8,9 +8,11 @@ I've become fascinated with programming language implementation and design and I
 
 ### Repositories
 
-https://github.com/marciok/Mu - It's a Swift playground explaining how to create a tiny programming language named Mu
+  https://github.com/marciok/Mu - It's a Swift playground explaining how to create a tiny programming language named Mu
 
   https://github.com/louisdh/lioness - The Lioness Programming Language
+
+  https://github.com/louisdh/cub - The Cub Programming Language
 
   https://github.com/silt-lang/silt - An ML-like programming language.
 
@@ -27,6 +29,16 @@ https://github.com/marciok/Mu - It's a Swift playground explaining how to create
   https://github.com/kai-language/kai - An expressive low level programming language http://docs.kai-lang.org
 
   https://github.com/joewillsher/Vist - The Vist programming language
+
+  https://github.com/dcutting/Song - Song is a terse functional programming language.
+
+  https://github.com/alexito4/slox - Swift implementation of a Lox interpreter
+
+  https://github.com/hashemi/slox - Lox tree-walking interpreter written in Swift - Based on Part II of Bob Nystrom's Book "Crafting Interpreters"
+
+  https://github.com/hashemi/bslox - Lox bytecode VM written in Swift - Based on Part III of Bob Nystrom's Book "Crafting Interpreters"
+
+  https://github.com/eirikvaa/slox - Swift implementation of the Lox programming language as seen in the Crafting Interpreters book by Bob Nystrom
 
   https://github.com/yanagiba/swift-transform - A source-to-source compiler that transforms Swift code and produces the equivalent source code in other programming languages. http://yanagiba.org/swift-transform
 
@@ -73,6 +85,8 @@ https://github.com/marciok/Mu - It's a Swift playground explaining how to create
   https://github.com/paulgriffiths/calclang - Implementation of a simple mathematical programming language environment for OS X.
 
   https://github.com/xebia/xtime-ios - An experiment in (at least one) monkey(s), typewriter(s) and the Swift programming language.
+
+  https://github.com/hashemi/FlyingMonkey - Monkey interpreter written in Swift - Based on Thorsten Ball's Book "Writing an Interpreter in Go"
 
   https://github.com/DJBen/ShakespearePL-Swift - An implementation of the parser of Shakespeare programming language, in Swift.
 
@@ -125,6 +139,8 @@ https://github.com/marciok/Mu - It's a Swift playground explaining how to create
   https://github.com/shift-js/shift-js - Swift to JavaScript transpiler
 
   https://github.com/ankurp/swift-js - Swift to JS Transpiler
+
+  https://github.com/llvm-swift/LLVMSwift- A Swift wrapper for the LLVM C API (version 5.0)
 
 ### Resources
 
