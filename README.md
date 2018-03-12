@@ -130,7 +130,7 @@ I've become fascinated with programming language implementation and design and I
 
 ### LLVM
 
-  https://github.com/llvm-swift/LLVMSwift- A Swift wrapper for the LLVM C API (version 5.0)
+  https://github.com/llvm-swift/LLVMSwift - A Swift wrapper for the LLVM C API (version 5.0)
 
 ### Transpiler
 
